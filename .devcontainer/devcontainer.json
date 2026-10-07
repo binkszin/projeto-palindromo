@@ -1,4 +1,3 @@
-JSON
 {
     "name":"ambiente Node.js para Projeto Palíndromo",
     //Define a imagem de contêiner pré-configurada da Microsoft com Node.js v20.
